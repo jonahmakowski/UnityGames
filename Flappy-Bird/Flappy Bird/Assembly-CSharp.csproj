@@ -48,6 +48,8 @@
     <Compile Include="Assets/PipeSpawnScript.cs" />
     <Compile Include="Assets/BirdScript.cs" />
     <Compile Include="Assets/PipeMoveScript.cs" />
+    <Compile Include="Assets/Logic.cs" />
+    <Compile Include="Assets/PipeMiddleScript.cs" />
     <None Include="Assets/TextMesh Pro/Shaders/TMPro.cginc" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader" />
     <None Include="Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader" />
